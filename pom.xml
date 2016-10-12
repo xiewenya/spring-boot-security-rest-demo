@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>spring security demo</name>
+	<name>spring boot security rest demo</name>
 	<description>spring security demo</description>
 
 	<parent>
